@@ -1,0 +1,9 @@
+#container{
+    width: 40%;
+    margin: 1em auto;
+}
+h1{
+    font-size: 1.5em;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif
+}
